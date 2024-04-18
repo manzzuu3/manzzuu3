@@ -8,7 +8,7 @@
 
 <p align="left">
 🚀 On a quest to master Advanced Big Data, Computer Vision, and NLP.<br><br>
-📫 Reach me at : manzzuu9@gmail.com<br><br>
+📫 Reach me at : <a href="mailto:manzzuu9@gmail.com">manzzuu9@gmail.com</a><br><br>
 💻 Skilled in Python, SQL, JAVA, and various modules. Piloting Deep Learning with Tensorflow and Keras.<br><br>
 🎖️ Cloud Certifications:<br>
     - AWS Solution Architect Associate <br>
