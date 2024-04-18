@@ -6,17 +6,14 @@
   <p style="font-size: 1.1rem; color: #555;">Welcome to my Projects! Feel free to explore the my code.</p>
   <ul style="font-size: 1.1rem; color: #555;">
 
-🚀 On a quest to master Advanced Big Data, Computer Vision, and NLP.
-
-📫 Reach me at : manzzuu9@gmail.com
-
-💻 Skilled in Python, SQL, JAVA, and various modules. Piloting Deep Learning with Tensorflow and Keras.
-
-🎖️ Cloud Certifications:
-     AWS Solution Architect Associate, 
-     Microsoft Azure Fundamentals
-
-
+<p align="left">
+🚀 On a quest to master Advanced Big Data, Computer Vision, and NLP.<br><br>
+📫 Reach me at : manzzuu9@gmail.com<br><br>
+💻 Skilled in Python, SQL, JAVA, and various modules. Piloting Deep Learning with Tensorflow and Keras.<br><br>
+🎖️ Cloud Certifications:<br>
+    - AWS Solution Architect Associate <br>
+       - Microsoft Azure Fundamentals<br>
+</p>
 
 <!--
 **manzzuu3/manzzuu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
