@@ -7,9 +7,9 @@
   <ul style="font-size: 1.1rem; color: #555;">
 
 <p align="left">
-🚀 On a quest to master Advanced Big Data, Computer Vision, and NLP.<br><br>
+🚀 Embarking on a journey to master advanced Big Data tools, Computer Vision, and NLP.<br><br>
 📫 Reach me at : <a href="mailto:cmanjunathrao22@gmail.com">cmanjunathrao22@gmail.com</a><br><br>
-💻 Skilled in Python, SQL, JAVA, and various modules. Piloting Deep Learning with Tensorflow and Keras.<br><br>
+💻 skilled in Python, SQL, and Java, along with expertise in various modules. Currently exploring Deep Learning using TensorFlow and Keras.<br><br>
 🎖️ Cloud Certifications:<br>
     - AWS Solution Architect Associate <br>
        - Microsoft Azure Fundamentals<br>
