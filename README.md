@@ -8,7 +8,7 @@
 
 <p align="left">
 🚀 Embarking on a journey to master advanced Big Data tools, Computer Vision, and NLP.<br><br>
-📫 Reach me at : <a href="mailto:chimbilimanjunath@gmail.com">cmanjunathrao22@gmail.com</a><br><br>
+📫 Reach me at : <a href="mailto:chimbilimanjunath@gmail.com">chimbilimanjunath@gmail.com</a><br><br>
 💻 skilled in Python, SQL, and Java, along with expertise in various modules. Currently exploring Deep Learning using TensorFlow and Keras.<br><br>
 🎖️ Cloud Certifications:<br>
     - AWS Solution Architect Associate <br>
